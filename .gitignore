@@ -124,7 +124,6 @@ work_dirs/
 *.sh~
 
 # Project specific
-BCCD/
 date/blood_cell/images/
 deploy/*.onnx
 deploy/tmp_*
